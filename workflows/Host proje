@@ -1,0 +1,4 @@
+Host proje
+    HostName 18.133.237.213
+    IdentityFile C:\Kullanıcılar\etutk\İndirilenler\london.pem
+    User ec2-user
